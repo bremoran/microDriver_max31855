@@ -1,6 +1,6 @@
 {
     "name": "microDriver_max31855",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "micro:bit Makecode driver for MAX31855 thermocouple reader",
     "license": "MIT",
     "dependencies": {
