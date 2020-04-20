@@ -1,0 +1,24 @@
+{
+    "name": "microDriver_max31855",
+    "version": "0.0.0",
+    "description": "micro:bit Makecode driver for MAX31855 thermocouple reader",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "microDriver_max31855.h",
+        "microDriver_max31855.cpp",
+        "microDriver_max31855.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
