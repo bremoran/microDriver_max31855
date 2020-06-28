@@ -77,7 +77,7 @@ namespace max31855Driver {
     /**
      * The reader temperature from the last update
      */
-    //% blockId="MAX31855Driver_thermocoupleTemperature"
+    //% blockId="MAX31855Driver_ReaderTemperature"
     //% block="max31855Temperature"
     export function max31855Temperature(): number {
         return 0.0625 * max31855ReaderTemperatureRaw();
